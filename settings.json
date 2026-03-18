@@ -8,7 +8,7 @@
   "server": {
     "ip": "dragonilsmp.playserver.pro",
     "port": 48538,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
